@@ -1,15 +1,12 @@
-♦his install:Drop modules from darkrp
+♦ This install:Drop modules from darkrp
 
+☼ Change - text to "change server"
 
+◘ MrKuBu Server - hostname
 
+§ Player see: MrKuBu Server[Change]
 
-change text to "change server"
-
-MrKuBu Server - hostname
-
-Player see: MrKuBu Server[Change]
-
---Example(пример)For ru:
+▀ Example(пример)For ru:
 
 if SERVER then
 
