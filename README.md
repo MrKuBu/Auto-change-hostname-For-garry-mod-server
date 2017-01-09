@@ -1,9 +1,9 @@
-This install:Drop modules from darkrp
+♦his install:Drop modules from darkrp
 
 
 
 
-Change - you text to "change server"
+change text to "change server"
 
 MrKuBu Server - hostname
 
